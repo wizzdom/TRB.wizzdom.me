@@ -10,4 +10,6 @@
 		<br>
 		<p>test</p>
 	</main>
-</body>
+<?php
+	require 'footer.php';
+?>
