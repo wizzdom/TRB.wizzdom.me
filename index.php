@@ -8,7 +8,7 @@
 		<br>
 		<br>
 		<br>
-		<p>test</p>
+<h1
 	</main>
 <?php
 	require 'footer.php';

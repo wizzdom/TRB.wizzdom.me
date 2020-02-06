@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>TapGoEat</title>
+    <title>Tap'n'Eat Card</title>
     <meta name="description" content="Solve Your childs problem, have they forgotten there lunch and all of their money again?">
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
